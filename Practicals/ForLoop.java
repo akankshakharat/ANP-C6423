@@ -12,7 +12,7 @@ public class ForLoop {
 				int no = sc.nextInt();
 				for(int i=0;i<=no;i++)
 				{
-					System.out.println(".......--HAPPY HOLI--.......");
+					System.out.println("....HAPPY HOLI ....");
 				}
 				
 	}
